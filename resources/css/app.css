@@ -1,0 +1,13 @@
+@import "~bootstrap/dist/css/bootstrap.rtl.css";
+
+.main{
+    min-height: calc(100vh - 134px);
+}
+
+.panel{
+    width: 650px;
+    height: 400px;
+    position: fixed;
+    top: 185px;
+    right: 410px;
+}
